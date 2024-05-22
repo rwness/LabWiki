@@ -1,0 +1,119 @@
+---
+title: "TheNessLab : Getting the VPN"
+---
+
+::: {#page}
+::: {#main .aui-page-panel}
+::: {#main-header}
+::: {#breadcrumb-section}
+1.  [TheNessLab](index.html)
+2.  [The Ness Lab Wiki](The-Ness-Lab-Wiki_11436042.html)
+3.  [HPCnode 1 Documentation](HPCnode-1-Documentation_11436057.html)
+:::
+
+# [ TheNessLab : Getting the VPN ]{#title-text} {#title-heading .pagetitle}
+:::
+
+::: {#content .view}
+::: page-metadata
+Created by [ Jimmy Issa]{.author} on Jan 09, 2023
+:::
+
+::: {#main-content .wiki-content .group}
+In order to connect to the server, you will need the UTM VPN. This page
+will show you how to get and connect to it.
+
+The UofT instructions for getting the VPN are
+[here](https://uoft.service-now.com/nav_to.do?uri=%2Fkb_view.do%3Fsysparm_article%3DKB0010817%26sysparm_rank%3D3%26sysparm_tsqueryId%3Dea1a2930db0598100b6d735a8c96198a){.external-link
+rel="nofollow"}. Scroll down to the subsection titled \'[Accessing
+University resources off-campus]{style="color: rgb(0,0,128);"}[\', and
+you will see two links with instructions for installing and signing into
+the UTM VPN:]{style="color: rgb(0,0,128);"}
+
+[[![](attachments/83198824/83198822.png){.confluence-embedded-image
+draggable="false" height="196"
+image-src="attachments/83198824/83198822.png"
+unresolved-comment-count="0" linked-resource-id="83198822"
+linked-resource-version="1" linked-resource-type="attachment"
+linked-resource-default-alias="image2023-1-9_23-23-21.png"
+base-url="https://wiki.utm.utoronto.ca"
+linked-resource-content-type="image/png"
+linked-resource-container-id="83198824"
+linked-resource-container-version="1"}]{.confluence-embedded-file-wrapper
+.confluence-embedded-manual-size}]{style="color: rgb(0,0,128);"}
+
+[All the instructions for installing and signing into the UTM VPN can be
+found in these links, starting by installing the UTM VPN, and then
+signing into it. ]{style="color: rgb(0,0,128);"}
+
+[For convenience, the instructions are reproduced below all
+together:]{style="color: rgb(0,0,128);"}
+
+1.  Go to
+    [https://vpn.utm.utoronto.ca/](https://vpn.utm.utoronto.ca/){.external-link
+    rel="nofollow"} and log in with your utorid and password
+2.  Click on the appropriate download link depending on if you\'re using
+    a Windows or a Mac. If you don\'t know if your Windows is 64 bit or
+    32 bit, it\'s almost certainly 64 bit, but if you want to confirm go
+    to [Settings \> System \> About and scroll down to \'System Type\',
+    and see what it says.]{style="color: rgb(32,33,36);"}
+3.  [Complete the installation. ]{style="color: rgb(32,33,36);"}
+4.  [Now a little window or box for the GlobalProtect VPN should open at
+    the bottom-right of your screen. If it doesn\'t, you can locate it
+    by going to the taskbar on the bottom-right of your screen and
+    clicking on the Up arrow. A box of several icons will appear, and
+    you want to click on the GlobalProtect icon. To find which one is
+    the right icon, hover your cursor over any icon, and the name of
+    that icon will appear. Go through the icons until you find the one
+    representing the GlobalProtect VPN. If you correctly downloaded the
+    VPN, it should be there. Visual
+    representation:]{style="color: rgb(32,33,36);"}
+    1.  [[![](attachments/83198824/83198823.png){.confluence-embedded-image
+        .confluence-thumbnail draggable="false" height="144"
+        image-src="attachments/83198824/83198823.png"
+        unresolved-comment-count="0" linked-resource-id="83198823"
+        linked-resource-version="1" linked-resource-type="attachment"
+        linked-resource-default-alias="image2023-1-9_23-30-11.png"
+        base-url="https://wiki.utm.utoronto.ca"
+        linked-resource-content-type="image/png"
+        linked-resource-container-id="83198824"
+        linked-resource-container-version="1"}]{.confluence-embedded-file-wrapper
+        .confluence-embedded-manual-size}]{style="color: rgb(32,33,36);"}
+5.  [Once you click on the icon, you will be asked for a portal address.
+    The portal address is [vpn.utm.utoronto.ca --- copy and paste this
+    in. You will now be asked for utorid and password again, so just
+    type those and
+    enter.]{style="color: rgb(0,0,0);"}]{style="color: rgb(32,33,36);"}
+6.  [[That should be it. You can now connect directly to the VPN.
+    Whenever you need to reconnect in the future, just click on the same
+    GlobalProtect icon and hit
+    \'Connect\'.]{style="color: rgb(0,0,0);"}]{style="color: rgb(32,33,36);"}
+:::
+
+::: {.pageSection .group}
+::: pageSectionHeader
+## Attachments: {#attachments .pageSectionTitle}
+:::
+
+::: {.greybox align="left"}
+![](images/icons/bullet_blue.gif){height="8" width="8"}
+[image2023-1-9_23-23-21.png](attachments/83198824/83198822.png)
+(image/png)\
+![](images/icons/bullet_blue.gif){height="8" width="8"}
+[image2023-1-9_23-30-11.png](attachments/83198824/83198823.png)
+(image/png)\
+:::
+:::
+:::
+:::
+
+::: {#footer role="contentinfo"}
+::: {.section .footer-body}
+Document generated by Confluence on May 22, 2024 11:44
+
+::: {#footer-logo}
+[Atlassian](https://www.atlassian.com/)
+:::
+:::
+:::
+:::

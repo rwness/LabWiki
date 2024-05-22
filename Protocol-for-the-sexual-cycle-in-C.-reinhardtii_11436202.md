@@ -1,0 +1,161 @@
+---
+title: "TheNessLab : Protocol for the sexual cycle in C. reinhardtii"
+---
+
+::: {#page}
+::: {#main .aui-page-panel}
+::: {#main-header}
+::: {#breadcrumb-section}
+1.  [TheNessLab](index.html)
+2.  [The Ness Lab Wiki](The-Ness-Lab-Wiki_11436042.html)
+3.  [Chlamydomonas information and
+    protocols](Chlamydomonas-information-and-protocols_11436157.html)
+:::
+
+# [ TheNessLab : Protocol for the sexual cycle in C. reinhardtii ]{#title-text} {#title-heading .pagetitle}
+:::
+
+::: {#content .view}
+::: page-metadata
+Created by [ Josianne Lachapelle]{.author}, last modified on Nov 14,
+2017
+:::
+
+::: {#main-content .wiki-content .group}
+[Protocol A. Maturation in liquid; killing vegetative cells by
+freezing]{.underline}
+
+[Protocol B. Maturation on solid agar; killing vegetative cells using
+chloroform]{.underline}
+
+[ ]{.underline}
+
+[Protocol A]{.underline}
+
+1.  [Inducing gametogenesis]{.underline}
+
+```{=html}
+<!-- -->
+```
+1.  Grow strains in Bold's liquid media until the culture has reached
+    high density or carrying capacity.
+2.  Centrifuge the cultures at 2,000 x g for 5 minutes. Make sure to
+    tape the lid to the plate to prevent spills. 
+3.  Remove the supernatant. Add nitrogen-free Bold's liquid media. Mix
+    well.
+4.  Centrifuge for a second time. Remove supernatant and add
+    nitrogen-free media. Only add nitrogen-free media to about half the
+    volume of the well. Mix well.
+5.  Repeat the washing cycle a third time if you worry that you have not
+    been able to remove all of the spent media in the previous two
+    washes.
+6.  Mix cultures of opposite mating type. Also keep strains unmixed to
+    serve as negative controls.
+7.  Incubate without shaking, with a clear plastic lid to insure maximum
+    lighting, for about 24 hours.
+
+\
+
+[2. Inducing zygote maturation in liquid media]{.underline}
+
+1.  Place the cultures in the dark by wrapping the well plates with
+    mated strains and negative controls in aluminum foil.
+2.  Leave on lab bench, or in incubator for a minimum of 4 days.
+
+\
+
+[3. Killing unmated cells by freezing]{.underline}
+
+1.  Remove aluminum foil.
+2.  Place the well plate in freezer at -20 degrees C until the cultures
+    are all fully frozen. This can take about 1-2 hours in a 96-well
+    plate that is half-filled.
+
+[\
+]{.underline}
+
+[4. Germinating zygotes]{.underline}
+
+1.  Remove the well plate from the freezer and let thaw. This takes
+    about 30 minutes in a 96-well plate that is half-filled.
+2.  Add fresh Bold's media and mix well.
+3.  Incubate for at least 2 days. It can be difficult to tell apart dead
+    cells from germinated zygotes at the end of this step, so I tend to
+    transfer about 5% to fresh media and check after 1 days if there are
+    swimming and/or green cells.
+
+[\
+]{.underline}
+
+[\
+]{.underline}
+
+[Protocol B]{.underline}
+
+1.  [Inducing gametogenesis]{.underline}
+
+```{=html}
+<!-- -->
+```
+1.  Grow strains in Bold's liquid media until the culture has reached
+    high density or carrying capacity.
+2.  If the cultures are in well plates, exchange the plastic lid for a
+    sterile plastic film. Centrifuge the cultures at 2,000 x g for 5
+    minutes.
+3.  Remove the supernatant. Add nitrogen-free Bold's liquid media. Mix
+    well.
+4.  Centrifuge for a second time. Remove supernatant and add
+    nitrogen-free media. Only add nitrogen-free media to about half the
+    volume of the well. Mix well.
+5.  Repeat the washing cycle a third time if you worry that you have not
+    been able to remove all of the spent media in the previous two
+    washes.
+6.  Mix cultures of opposite mating type. Also keep strains unmixed to
+    serve as negative controls.
+7.  Incubate without shaking, with a clear plastic lid to insure maximum
+    lighting, for about 24 hours.
+
+\
+
+[2. Inducing zygote maturation on solid media]{.underline}
+
+1.  Transfer the zygotes to Bold's agar using pipette tips and loops.
+    The zygotes are sticky and tend to stick to the pipette tip. So I
+    use a loop to rub the zygotes off the tip and onto the agar. It also
+    helps to pipette about 50uL of culture on the agar, as the liquid
+    helps to disperse the zygotes off the tip and loop. Make sure to
+    avoid piercing the agar, as cells can go in the cracks and the
+    chloroform vapour will not be able to reach them.
+2.  Place the cultures in the dark by wrapping the agar plates with
+    mated strains and negative controls in aluminum foil.
+3.  Leave on lab bench, or in incubator for a minimum of 4 days.
+
+\
+
+[3. Killing unmated cells using chloroform vapour]{.underline}
+
+1.  Autoclave glass petri dishes.
+2.  Add a thin layer of chloroform to the glass petri dish, and cover
+    with a glass lid.
+3.  Invert the agar plates onto the glass petri dish and cover with the
+    glass lid. Leave for 45 seconds.
+
+\
+
+[4. Germinating zygotes]{.underline}
+
+1.  Incubate the agar plates for at least 2 days. 
+:::
+:::
+:::
+
+::: {#footer role="contentinfo"}
+::: {.section .footer-body}
+Document generated by Confluence on May 22, 2024 11:44
+
+::: {#footer-logo}
+[Atlassian](https://www.atlassian.com/)
+:::
+:::
+:::
+:::
